@@ -1,4 +1,4 @@
 # Tech-Lead---Dados-e-IA-2025.01
 
-## Angelina Maria da Silva
-## ams11@cesar.school
+## Nome: Angelina Maria da Silva
+## Email: ams11@cesar.school
